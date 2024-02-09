@@ -12,6 +12,13 @@ programa
 	funcao inicio()
 	{
 	
+<<<<<<< HEAD
+=======
+inclua biblioteca 	Matematica --> mat
+	funcao inicio()
+	{
+	
+>>>>>>> f9e42941f18d8e0890b1c045cb8a6453bc926384
 	real n1,n2,media
 
 	escreva("digite n1: \n")
@@ -22,8 +29,14 @@ programa
      media = (n1+n2)/2
      escreva("\n A média do aluno é: ",mat.arredondar (media,2))
 	
+<<<<<<< HEAD
 	}
 }
+=======
+	}
+}
+
+>>>>>>> f9e42941f18d8e0890b1c045cb8a6453bc926384
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
