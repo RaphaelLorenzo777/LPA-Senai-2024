@@ -23,7 +23,8 @@ programa
 		escreva("O preço do produto é:$87,99 (Precione Enter para conntinuar) ")
 		
 
-		escreva(" Obrigrado pela compra: ",nome,". voçê adquiriu: ",produto,". Por apenas:$87,99 . Volte sempre!!! ")
+		escreva(" Obrigrado pela compra: ",nome,". voçê adquiriu: ",produto,". Por apenas:$87,99 . Volte sempre!!!
+		")
 
 		
 	}
@@ -33,7 +34,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 559; 
+ * @POSICAO-CURSOR = 562; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
