@@ -1,6 +1,6 @@
 //Algoritmo: Cantina do Senai
 
-//Autor: Raphael
+//Autor:@Raphael
 //09/02/2024
 
 
@@ -19,13 +19,13 @@ programa
     inteiro qtd_coxinha, qtd_refri, qtd_sobremesa
     real tot_coxinha, tot_refri, tot_sobremesa, tot_total
 
-    escreva("quantas coxinhas voçê deseja?")
+    escreva("quantas coxinhas você deseja?")
     leia(qtd_coxinha)
     
-    escreva("quantos refris voçê deseja?")
+    escreva("quantos refris você deseja?")
     leia(qtd_refri) 
     
-    escreva("quantas sobremesa voçê deseja?")
+    escreva("quantas sobremesa você deseja?")
     leia(qtd_sobremesa)
 
     /*
@@ -43,9 +43,9 @@ programa
 
      escreva("Bem vindo a KANTINA do Senai\n")
      escreva("=======================================\n")
-     escreva("Voçê comprou: ",qtd_coxinha, " coxinhas.\n")
-     escreva("Voçê comprou: ",qtd_refri, " refris.\n")
-     escreva("Voçê comprou: ",qtd_sobremesa, " sobremesas.\n")
+     escreva("Você comprou: ",qtd_coxinha, " coxinhas.\n")
+     escreva("Você comprou: ",qtd_refri, " refris.\n")
+     escreva("Você comprou: ",qtd_sobremesa, " sobremesas.\n")
      escreva("============================================\n")
      escreva(" Total da compra: R$ ",tot_total, "\n")
     
@@ -56,7 +56,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1007; 
+ * @POSICAO-CURSOR = 40; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
