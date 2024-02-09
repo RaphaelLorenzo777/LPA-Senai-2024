@@ -23,7 +23,7 @@ programa
 		escreva("O preço do produto é:$87,99 (Precione Enter para conntinuar) ")
 		
 
-		escreva(" Obrigrado pela compra: ",nome,". voçê adquiriu: ",produto,". Por apenas:$87,99 . Volte sempre!!!
+		escreva(" Obrigrado pela compra: ",nome,". você adquiriu: ",produto,". Por apenas:$87,99 . Volte sempre!!!
 		")
 
 		
