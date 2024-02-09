@@ -1,11 +1,23 @@
 programa
 {
 	
+inclua biblioteca 	Matematica --> mat
 	funcao inicio()
 	{
-		escreva("Olá Mundo")
+	
+	real n1,n2,media
+
+	escreva("digite n1: \n")
+	leia(n1)
+	
+	escreva("digite n2: \n")
+	leia(n2)
+     media = (n1+n2)/2
+     escreva("\n A média do aluno é: ",mat.arredondar (media,2))
+	
 	}
 }
+
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
