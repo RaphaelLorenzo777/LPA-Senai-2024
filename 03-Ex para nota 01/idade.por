@@ -8,7 +8,7 @@ programa
 		escreva("digite a data de seu nascimento: ")
 		leia(nascimento)
 
-		escreva("digite o ano que voçê  está: ")
+		escreva("digite o ano que você  está: ")
 		leia(ano)
           sub = ano - nascimento
           
