@@ -1,6 +1,7 @@
 /*
  * Algoritmo: Par/impar
- * @Raphael
+ * @Raphael 16/02/2024
+ * Prof: Gustavo Molina
 */
 
 
@@ -26,7 +27,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 38; 
+ * @POSICAO-CURSOR = 73; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
