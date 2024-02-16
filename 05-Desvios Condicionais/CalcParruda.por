@@ -1,4 +1,7 @@
-
+/*
+ * Algoritmo: Calc Parruda
+ * @Raphael
+*/
 
 
 
@@ -41,7 +44,7 @@ programa
 		senao se (operador == '*'){
 			resultado = n1 * n2
 		} senao {
-			escreva("Operador inválido! Escolha outro operador +, -, *, ou /.") 
+			escreva("Operador inválido! Recomeçe e escolha outro operador +, -, *, ou /.") 
 			invalido++
 		}
 		se ( invalido == 0){
@@ -57,7 +60,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 820; 
+ * @POSICAO-CURSOR = 855; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
