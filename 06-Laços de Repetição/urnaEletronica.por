@@ -25,6 +25,7 @@ programa
 			escreva("\nQualquer número diferente de 0, 1, 2, ou 3 anulará seu voto\n")
 			escreva("Digite seu voto: ")
 
+
 			leia(voto)
 			limpa()
 
@@ -75,7 +76,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 48; 
+ * @POSICAO-CURSOR = 585; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
