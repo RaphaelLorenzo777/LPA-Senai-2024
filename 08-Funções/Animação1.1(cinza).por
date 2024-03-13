@@ -52,7 +52,7 @@ programa
 						brancos ++
 					}*/
 					branco(4)
-					escreva("   \\ /\n")
+					escreva("\\ /\n")
 					/*brancos = 1
 					quantidade = coluna * 3 + 2
 					enquanto (brancos <= quantidade)
@@ -61,8 +61,8 @@ programa
 						brancos ++
 					}*/
 					branco( coluna * 3 + 2)
-					escreva("( )( )( )( )( ._. )")
-				}
+					escreva("( )( ) ( )( ._. )")
+				
 				u.aguarde(500)
 			}
 		}
@@ -84,7 +84,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1364; 
+ * @POSICAO-CURSOR = 1383; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
