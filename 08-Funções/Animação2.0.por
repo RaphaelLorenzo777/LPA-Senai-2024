@@ -27,10 +27,10 @@ programa
 					escreva("( )")
 					
 					branco(4)
-					escreva("   \\ /\n")
+					escreva("\\ /\n")
 		
 					branco( coluna * 3 + 2)
-					escreva("( )( )( )( )( ._. )")
+					escreva("( )( ) ( )( ._. )")
 				}
 				u.aguarde(500)
 			}
@@ -53,7 +53,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 588; 
+ * @POSICAO-CURSOR = 636; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
