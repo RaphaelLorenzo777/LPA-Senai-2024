@@ -40,7 +40,7 @@ programa
 			//g.desenhar_elipse(100, 100, 200, 100, verdadeiro)
 			g.definir_cor(g.COR_PRETO)
 			g.definir_tamanho_texto(40)
-			g.desenhar_texto(169, 250, "Eu amo ela")
+			g.desenhar_texto(163, 250, "Eu amo ela")
 			
 			
 			g.renderizar()
